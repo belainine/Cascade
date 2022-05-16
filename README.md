@@ -16,7 +16,12 @@ The project support training and translation with trained model now.
 - tqdm
 - dill
 - numpy
-
+- [GoogleNews-vectors-negative300.bin.gz](https://github.com/mmihaltz/word2vec-GoogleNews-vectors)
+- nltk
+- jiwer
+- tensorboardX
+- matplotlib
+- gensim
 
 # Usage
 
