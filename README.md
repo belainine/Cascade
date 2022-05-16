@@ -31,10 +31,6 @@ The project support training and dailog generation with trained model now.
 Seq2Seq chatbot implement using PyTorch  
 Feature: Seq2Seq + Beam Search
 
-## Requirements
-- Python3
-- Pytorch 0.3
-
 ## Corpus
 - [DailyDialog](http://www.aclweb.org/anthology/I17-1099)
 - [Ubuntu](https://arxiv.org/abs/1506.08909)
