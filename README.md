@@ -1,11 +1,13 @@
-#  Transformer DSM Attention - : A Pytorch Implementation
+#  Cascade Model - : A Pytorch Implementation
+Is a model encoder-decoder, the encoder represents a single
+RNR and decoder is a sequence of RNRs that progressively build a prediction context by trusting each other and each managing a word position in the dialog utterances. The final context is thus based as much on the words as the statements preceding the answer to be predicted.
 
 This is a PyTorch implementation of peper "End-to-End Dialogue Generation Using a Single Encoder and a Decoder Cascade With a Multidimension Attention Mechanism,"
 
 
 A novel multi sequence to sequence framework utilizes the **sequence of Recurrent structure**.
 
-The project support training and translation with trained model now.
+The project support training and dailog generation with trained model now.
 
 
 # Requirement
