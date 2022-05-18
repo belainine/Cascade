@@ -28,8 +28,8 @@ The project support training and dailog generation with trained model now.
 # Usage
 
 # pytorch-chatbot
-Seq2Seq chatbot implement using PyTorch  
-Feature: Seq2Seq + Beam Search
+CASCADE chatbot implement using PyTorch  
+Feature: CASCADE model + Beam Search
 
 ## Corpus
 - [DailyDialog](http://www.aclweb.org/anthology/I17-1099)
