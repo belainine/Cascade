@@ -9,7 +9,10 @@ A novel multi sequence to sequence framework utilizes the **sequence of Recurren
 
 The project support training and dailog generation with trained model now.
 
-
+The project support training and generation with trained model now.
+<p align="center">
+<img src="https://github.com/belainine/TransformerDSM/blob/main/TransformerFR.jpg" width="600">
+  
 # Requirement
 - python 3.4+
 - pytorch 1.3.1
