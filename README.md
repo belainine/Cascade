@@ -38,11 +38,11 @@ Feature: CASCADE model + Beam Search
 ## Usage
 ### Training
 ```python
-python chatbot_Cascade.py nb_decoder 3 train model
+python chatbot_Cascade.py nb_decoder 3 -train model
 ```
 ### Test
 ```python
-python chatbot_Cascade.py test nb_decoder 3 ./ckpt model beam 4
+python chatbot_Cascade.py -log -test nb_decoder 3 ./ckpt model beam 4
 ```
 
 ## Reference
