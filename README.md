@@ -11,7 +11,7 @@ The project support training and dailog generation with trained model now.
 
 The project support training and generation with trained model now.
 <p align="center">
-<img src="https://github.com/belainine/TransformerDSM/blob/main/TransformerFR.jpg" width="600">
+<img src="https://github.com/belainine/Cascade/blob/main/Cascade1.jpg" width="600">
   
 # Requirement
 - python 3.4+
