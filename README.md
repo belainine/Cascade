@@ -9,7 +9,7 @@ A novel multi sequence to sequence framework utilizes the **sequence of Recurren
 
 The project support training and dailog generation with trained model now.
 
-The project support training and generation with trained model now.
+The project support training and dialog generation now.
 <p align="center">
 <img src="https://github.com/belainine/Cascade/blob/main/Cascade1.jpg" width="600">
   
