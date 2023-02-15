@@ -47,6 +47,19 @@ python chatbot_Cascade.py nb_decoder 3 -train model Cornell_Movie
 ```python
 python chatbot_Cascade.py -log -test nb_decoder 3 ./ckpt model beam 4 Cornell_Movie_test
 ```
+  ## Citation
+```
+@ARTICLE{9723498,
+  author={Belainine, Billal and Sadat, Fatiha and Boukadoum, Mounir},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={End-to-End Dialogue Generation Using a Single Encoder and a Decoder Cascade With a Multidimension Attention Mechanism}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-11},
+  doi={10.1109/TNNLS.2022.3151347}
+  }
+```
 
 ## Reference
 - [End-to-End Dialogue Generation Using a Single Encoder and a Decoder Cascade With a Multidimension Attention Mechanism,](https://ieeexplore.ieee.org/abstract/document/9723498)
